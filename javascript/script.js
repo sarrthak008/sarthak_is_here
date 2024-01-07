@@ -23,4 +23,4 @@ setTimeout(() => {
     var first =document.querySelector('#first')
     first.style.top=-200+'vh';
     
-}, 6000);
+}, 9000);
